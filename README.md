@@ -29,3 +29,7 @@ This script facilitates manual labeling of the identified objects (weed or rice)
 ### Database total.m
 
 This script consolidates all individual class tables into comprehensive tables for each class. Each feature is stored as an independent array, enabling data analysis such as histogram generation, mean calculation, standard deviation computation, and assessment of normal distribution.
+
+## invmoments.p
+
+This is an aditional module required to calculate Hu Invariant moments in MATLAB for the labelled objects
