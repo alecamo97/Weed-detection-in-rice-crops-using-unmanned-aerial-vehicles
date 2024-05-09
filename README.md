@@ -29,3 +29,6 @@ This is an aditional module required to calculate Hu Invariant moments in MATLAB
 
 ## Degree project report.pdf
 This document contains the project investigation report, detailing the methodology employed and the obtained results. The report is written in Spanish, providing comprehensive insights into the project's findings, analysis and results.
+
+## Author
+The project was developed by Alejandro Carvajal. Image and data acquisiton was done in rice crops located in Colombia, more specifically in the department of Tolima with help of goverment and private institutions. Image and data acquisition took place in rice crops situated in Colombia, particularly in the Tolima department, with assistance from both governmental and private institutions. The coding and report development were carried out by Alejandro Carvajal, under the guidance of Professor and Project Supervisor, Oscar Barrero Mendoza.
