@@ -6,5 +6,5 @@ The project workflow includes dataset construction, feature calculations, and pr
 
 Various data reduction techniques, including features normalization, Principal Component Analysis (PCA), and sequential feature selection, are explored to reduce the dataset size. Finally, three machine learning algorithms: K-Nearest Neighbors, Support Vector Machine, and Random Forest were developed and evaluated using performance metrics such as F1-Score and Accuracy.
 
-This repository provides access to the MATLAB codes and documentation detailing the project methodology and findings.
+This repository provides access to the MATLAB codes and documentation detailing the project methodology and findings. Additionally, detailed descriptions of the functionality of each file are provided below.
 
